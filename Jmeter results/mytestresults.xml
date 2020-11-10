@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="98" it="0" lt="98" ct="69" ts="1604961844750" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="248" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:04 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+Upgrade: h2,h2c
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="41" it="0" lt="41" ct="0" ts="1604961844849" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="248" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:04 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+Upgrade: h2,h2c
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1604961844891" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:04 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1604961844917" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:04 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1604961844935" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:04 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961844959" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:04 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961844978" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:04 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961844998" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1604961845020" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="27" ct="0" ts="1604961845038" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845066" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1604961845087" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1604961845111" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961845136" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1604961845159" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845183" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961845203" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1604961845224" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845254" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1604961845275" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961845301" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="25" ct="0" ts="1604961845323" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845349" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1604961845374" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961845392" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="19" ct="0" ts="1604961845415" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845435" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1604961845456" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="21" ct="0" ts="1604961845474" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961845496" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961845516" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961845535" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961845556" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961845575" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961845596" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="18" ct="0" ts="1604961845617" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1604961845636" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845664" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="48" ct="0" ts="1604961845685" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845734" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845754" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="18" ct="0" ts="1604961845776" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961845795" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1604961845817" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1604961845835" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1604961845858" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961845884" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961845905" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1604961845926" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="19" ct="0" ts="1604961845943" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961845963" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1604961845985" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:05 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846008" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846031" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961846054" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846074" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846095" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846115" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="30" ct="0" ts="1604961846136" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846167" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1604961846190" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846209" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846230" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1604961846252" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1604961846270" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1604961846288" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846306" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846326" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846347" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846369" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1604961846392" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1604961846415" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846434" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846455" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846476" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846496" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846518" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1604961846538" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846565" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1604961846587" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="53" it="0" lt="53" ct="0" ts="1604961846604" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846658" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846679" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846702" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846722" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846743" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846765" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846786" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846808" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846830" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846851" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846872" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1604961846892" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961846911" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1604961846933" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961846955" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1604961846974" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:06 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="20" ct="0" ts="1604961846994" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:07 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1604961847015" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:07 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-0fbe3e9e5884fec52&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1604961847035" s="true" lb="get-instance-id.php Page" rc="200" rm="OK" tn="Assignment1 Web Users 1-1" dt="text" by="231" sby="170" ng="1" na="1">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Mon, 09 Nov 2020 22:44:07 GMT
+Content-Type: application/json
+Content-Length: 36
+Connection: keep-alive
+Server: Apache/2.4.46 () PHP/5.4.16
+X-Powered-By: PHP/5.4.16
+</responseHeader>
+  <responseData class="java.lang.String">{&quot;InstanceID&quot;:&quot;i-06f47926dfd877e3b&quot;}</responseData>
+  <java.net.URL>http://LoadBalancerRH-1063624572.eu-west-1.elb.amazonaws.com/get-instance-id.php</java.net.URL>
+</httpSample>
+
+</testResults>
